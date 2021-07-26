@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MIN
+ *
+ */
+module study {
+}
